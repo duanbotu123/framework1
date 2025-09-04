@@ -1,0 +1,52 @@
+# -------------------------
+# C++ 源码和头文件
+# -------------------------
+*.cpp   text eol=lf
+*.cxx   text eol=lf
+*.cc    text eol=lf
+*.h     text eol=lf
+*.hpp   text eol=lf
+*.hxx   text eol=lf
+
+# -------------------------
+# CMake 文件
+# -------------------------
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+
+# -------------------------
+# Python 文件
+# -------------------------
+*.py    text eol=lf
+
+# -------------------------
+# 文档文件
+# -------------------------
+*.md    text eol=lf
+*.txt   text eol=lf
+
+# -------------------------
+# 配置文件
+# -------------------------
+*.json  text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+
+# -------------------------
+# 二进制文件（不转换）
+# -------------------------
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.bmp   binary
+*.gif   binary
+*.ico   binary
+*.zip   binary
+*.tar   binary
+*.gz    binary
+*.7z    binary
+*.dll   binary
+*.so    binary
+*.lib   binary
+*.a     binary
+*.exe   binary
